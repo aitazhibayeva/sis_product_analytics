@@ -1,0 +1,9 @@
+PRODUCT ANALYSIS SUMMARY
+Total Users: 1046
+DAU: 17.4
+Stickiness: 1.67%
+D7 Retention: 40.2%
+ARPU: $0.37
+LTV: $0.73
+Conversion Rate: 23.04%
+LTV:CAC Ratio: 0.24x
