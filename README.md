@@ -30,11 +30,11 @@ LTV:CAC Ratio: 0.24x
 
 #### Final Report 
 
-##### 1. Executive Summary 
+ 1. Executive Summary 
 
     This report presents a comprehensive analysis of the mobile game dataset created for the SIS assignment. The analysis evaluates user engagement, funnel performance, retention, monetization, and A/B testing outcomes. Overall, the product shows low engagement, moderate short-term retention, weak monetization, and inconclusive A/B results. Strategic improvements are required in onboarding, mid-game design, and monetization strategy to build sustainable growth 
 
-##### 2. Product Engagement Metrics  
+ 2. Product Engagement Metrics  
 
 • Total Users: 1,046  
 • Daily Active Users (DAU): 17.4  
@@ -43,32 +43,32 @@ LTV:CAC Ratio: 0.24x
 
    Engagement levels are below healthy benchmarks for mobile games. The low DAU and very low stickiness indicate that users do not consistently return to the game. More compelling early engagement loops are needed to create habitual play behavior 
 
-##### 3. Funnel Analysis Funnel:  
+ 3. Funnel Analysis Funnel 
 
      Install -> Tutorial Complete -> D7 Retention -> Purchase  
 
     The steepest drop-off occurs at the tutorial stage. This strongly suggests that onboarding is too long, confusing, or unengaging. Improving the tutorial experience is the most impactful step for increasing retention and eventual monetization 
 
-##### 4. Retention & Cohort Analysis  
+ 4. Retention & Cohort Analysis  
 
 • D7 Retention: 40.2%  
 • Cohorts show no improvement for more recent users 
 
-     While D7 retention is acceptable for casual mobile games, long-term retention declines quickly. The lack of improvement across cohorts indicates that updates or game changes did not meaningfully increase user stickiness. More engaging mid-game systems are required 
+   While D7 retention is acceptable for casual mobile games, long-term retention declines quickly. The lack of improvement across cohorts indicates that updates or game changes did not meaningfully increase user stickiness. More engaging mid-game systems are required 
 
-##### 5. Monetization Analysis  
+ 5. Monetization Analysis  
 
 • ARPU: $0.37  
 • LTV: $0.73  
 • Paying User Conversion: 23.04%  
 
-    Although a high share of players make at least one purchase, revenue is low. Most paying users spend very little. The game likely relies on a small subset of higher spenders (whales). LTV is too low to support profitable user acquisition 
+   Although a high share of players make at least one purchase, revenue is low. Most paying users spend very little. The game likely relies on a small subset of higher spenders (whales). LTV is too low to support profitable user acquisition 
 
-##### 6. A/B Testing Results 
+ 6. A/B Testing Results 
 
     The A/B test compared tutorial completion, D7 retention, and revenue between Group A (control) and Group B (new version). Changes in Group B showed small improvements, but none were statistically significant at p < 0.05. Therefore, the new version cannot be recommended for rollout. More isolated experiments with stronger feature changes and larger samples are needed 
 
-##### 7. Insights & Recommendations  
+ 7. Insights & Recommendations  
 
 • Fix Onboarding: Simplify the tutorial, shorten steps, and increase early rewards 
 • Boost Retention: Add daily missions, meaningful progression systems, and motivational loops 
